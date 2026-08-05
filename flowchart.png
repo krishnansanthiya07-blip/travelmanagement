@@ -1,0 +1,27 @@
+        START
+          ↓
+         Main Menu
+          ↓
+                    ____________________________________________________      
+                                                                ↓                                          ↓                                   ↓
+                                                        Register                               Login                             Exit
+                                                            ↓                                              ↓                                    ↓
+         Enter Username& Password          Enter Username& Password        Thank you                                                                                                                            
+                                                           ↓                                              ↓                                      ↓
+                                             Registeration                         Valid Login?                        END
+                                                Successful                                          ↓
+                     | ___No → Invalid Login → Main Menu
+                                                                                                            │
+                                                                 |__________________ Yes
+                                  ↓
+                                     Display Destinations
+                                  ↓
+                                    Select Destination
+                                  ↓
+                                      Booking Successful
+                                  ↓
+                                        Display Amount
+                                 ↓
+                                                                                                  Main Menu
+
+
